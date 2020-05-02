@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
         android:fontFamily="casual"
-        android:text="Happy Birthday YOURFRIENDHERE"
+        android:text="Happy Birthday YOURFRIENDHERE1"
         android:textColor="#9C27B0"
         android:textSize="36sp" />
     <TextView
